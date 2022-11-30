@@ -5,18 +5,22 @@
  * @email: lxk201808@163.com
  * @Date: 2022-11-29 18:21:55
  * @LastEditors: Xiaokang Lei
- * @LastEditTime: 2022-11-29 18:42:20
+ * @LastEditTime: 2022-11-30 15:15:30
 -->
 
 # 文字Text
 
 <div align=center>
-    <img width="25%" src="/img/text01.png">
-    <img width="25%" src="/img/text02.png">
-    <img width="25%" src="/img/text03.png">
+  <img width="160px" style="border-radius: 5%;" src="https://s1.ax1x.com/2022/11/30/zwKDdU.jpg">
 </div>
 
 ## 大小
+
+<div align=center>
+    <img width="25%" src="https://s1.ax1x.com/2022/11/30/zwKroF.png">
+    <img width="25%" src="https://s1.ax1x.com/2022/11/30/zwKyi4.png">
+    <img width="25%" src="https://s1.ax1x.com/2022/11/30/zwK6JJ.png">
+</div>
 
 ```css
 .text-xs {font-size: 20rpx;}
@@ -32,9 +36,9 @@
 ## 其他样式
 
 <div align=center>
-    <img width="25%" src="/img/text04.png">
-    <img width="25%" src="/img/text05.png">
-    <img width="25%" src="/img/text06.png">
+    <img width="25%" src="https://s1.ax1x.com/2022/11/30/zwKcW9.png">
+    <img width="25%" src="https://s1.ax1x.com/2022/11/30/zwKgzR.png">
+    <img width="25%" src="https://s1.ax1x.com/2022/11/30/zwKRQ1.png">
 </div>
 
 ### 颜色

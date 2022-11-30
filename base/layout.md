@@ -5,17 +5,21 @@
  * @email: lxk201808@163.com
  * @Date: 2022-11-28 19:17:36
  * @LastEditors: Xiaokang Lei
- * @LastEditTime: 2022-11-29 16:01:30
+ * @LastEditTime: 2022-11-30 15:15:12
 -->
 # 布局Layout
+
+<div align=center>
+  <img width="160px" style="border-radius: 5%;" src="https://s1.ax1x.com/2022/11/30/zwKDdU.jpg">
+</div>
 
 ## Flex布局
 
 <div align=center>
-    <img width="24%" src="/img/layout01.png">
-    <img width="24%" src="/img/layout02.png">
-    <img width="24%" src="/img/layout03.png">
-    <img width="24%" src="/img/layout04.png">
+    <img width="24%" src="https://s1.ax1x.com/2022/11/30/zwKMsP.png">
+    <img width="24%" src="https://s1.ax1x.com/2022/11/30/zwK3dS.png">
+    <img width="24%" src="https://s1.ax1x.com/2022/11/30/zwK1Z8.png">
+    <img width="24%" src="https://s1.ax1x.com/2022/11/30/zwKYGj.png">
 </div>
 
 ### 固定尺寸
@@ -112,9 +116,9 @@
 ## Grid布局
 
 <div align=center>
-    <img width="30%" src="/img/layout05.png">
-    <img width="30%" src="/img/layout06.png">
-    <img width="30%" src="/img/layout07.png">
+    <img width="30%" src="https://s1.ax1x.com/2022/11/30/zwKJiQ.png">
+    <img width="30%" src="https://s1.ax1x.com/2022/11/30/zwK8Ig.png">
+    <img width="30%" src="https://s1.ax1x.com/2022/11/30/zwKtRs.png">
 </div>
 
 ### 等分列
@@ -140,10 +144,10 @@
 ## 辅助布局
 
 <div align=center>
-    <img width="24%" src="/img/layout08.png">
-    <img width="24%" src="/img/layout09.png">
-    <img width="24%" src="/img/layout10.png">
-    <img width="24%" src="/img/layout11.png">
+    <img width="24%" src="https://s1.ax1x.com/2022/11/30/zwKNzn.png">
+    <img width="24%" src="https://s1.ax1x.com/2022/11/30/zwKaMq.png">
+    <img width="24%" src="https://s1.ax1x.com/2022/11/30/zwKds0.png">
+    <img width="24%" src="https://s1.ax1x.com/2022/11/30/zwKwLV.png">
 </div>
 
 基础数据：

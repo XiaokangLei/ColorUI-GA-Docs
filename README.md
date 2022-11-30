@@ -1,8 +1,21 @@
+<!--
+ * @Descripttion: 
+ * @version: V1.0
+ * @Author: Xiaokang Lei
+ * @email: lxk201808@163.com
+ * @Date: 2022-11-28 16:30:51
+ * @LastEditors: Xiaokang Lei
+ * @LastEditTime: 2022-11-30 14:54:57
+-->
 # ColorUI GA
 
 [![stars](https://badgen.net/github/stars/XiaokangLei/ColorUI-GA?icon=github&color=4ab8a1)](https://github.com/XiaokangLei/ColorUI-GA) [![forks](https://badgen.net/github/forks/XiaokangLei/ColorUI-GA?icon=github&color=4ab8a1)](https://github.com/XiaokangLei/ColorUI-GA)
 
 ColorUI GA是基于ColorUI 2.0开发的小程序**原生**css组件库，理论上适用于其他支持css库的所有平台。在原组件库的基础上会增加部分样式和模板，长期更新，如果您有好的想法或对本项目有任何建议以及发现文中内容有误的请提交 [Github Issues](https://github.com/XiaokangLei/ColorUI-GA/issues)。对于想要一起开发，补充CSS样式库的朋友，欢迎提交 PR。
+
+<div align=center>
+  <img width="160px" style="border-radius: 5%; margin:0 10%" bor src="https://s1.ax1x.com/2022/11/30/zwKDdU.jpg">
+</div>
 
 ## 快速开始(原生小程序)
 
@@ -76,9 +89,9 @@ onLaunch: function() {
 - 5、示例
 
 <div align=center>
-  <img width="30%" src="./img/index01.png">
-  <img width="30%" src="./img/index02.png">
-  <img width="30%" src="./img/index03.png">
+  <img width="30%" src="https://s1.ax1x.com/2022/11/30/zwKnxI.png">
+  <img width="30%" src="https://s1.ax1x.com/2022/11/30/zwKeGd.png">
+  <img width="30%" src="https://s1.ax1x.com/2022/11/30/zwKKMt.png">
 </div>
 
 ## UniApp部署(仅供参考)
