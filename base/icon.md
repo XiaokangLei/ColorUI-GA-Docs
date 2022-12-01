@@ -9,7 +9,7 @@
 -->
 
 <div style="width:380px; height:750px; float:right; padding-left:3%;">
-    <iframe src="/h5/index.html" width="360" height="720" style="border-radius:15px; box-shadow:0 0 50px 0px rgb(30 0 60 / 15%);"></iframe>
+    <iframe src="./h5/index.html" width="360" height="720" style="border-radius:15px; box-shadow:0 0 50px 0px rgb(30 0 60 / 15%);"></iframe>
 </div>
 
 # 图标Icon
