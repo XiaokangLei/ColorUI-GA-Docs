@@ -5,8 +5,13 @@
  * @email: lxk201808@163.com
  * @Date: 2022-11-28 19:17:36
  * @LastEditors: Xiaokang Lei
- * @LastEditTime: 2022-11-30 15:15:12
+ * @LastEditTime: 2022-12-01 15:19:28
 -->
+
+<div style="width:380px; height:750px; float:right; padding-left:3%;">
+    <iframe src="/h5/index.html" width="360" height="720" style="border-radius:15px; box-shadow:0 0 50px 0px rgb(30 0 60 / 15%);"></iframe>
+</div>
+
 # 布局Layout
 
 <div align=center>
@@ -15,12 +20,12 @@
 
 ## Flex布局
 
-<div align=center>
+<!-- <div align=center>
     <img width="24%" src="https://s1.ax1x.com/2022/11/30/zwKMsP.png">
     <img width="24%" src="https://s1.ax1x.com/2022/11/30/zwK3dS.png">
     <img width="24%" src="https://s1.ax1x.com/2022/11/30/zwK1Z8.png">
     <img width="24%" src="https://s1.ax1x.com/2022/11/30/zwKYGj.png">
-</div>
+</div> -->
 
 ### 固定尺寸
 
@@ -115,11 +120,11 @@
 
 ## Grid布局
 
-<div align=center>
+<!-- <div align=center>
     <img width="30%" src="https://s1.ax1x.com/2022/11/30/zwKJiQ.png">
     <img width="30%" src="https://s1.ax1x.com/2022/11/30/zwK8Ig.png">
     <img width="30%" src="https://s1.ax1x.com/2022/11/30/zwKtRs.png">
-</div>
+</div> -->
 
 ### 等分列
 
@@ -143,12 +148,12 @@
 
 ## 辅助布局
 
-<div align=center>
+<!-- <div align=center>
     <img width="24%" src="https://s1.ax1x.com/2022/11/30/zwKNzn.png">
     <img width="24%" src="https://s1.ax1x.com/2022/11/30/zwKaMq.png">
     <img width="24%" src="https://s1.ax1x.com/2022/11/30/zwKds0.png">
     <img width="24%" src="https://s1.ax1x.com/2022/11/30/zwKwLV.png">
-</div>
+</div> -->
 
 基础数据：
 

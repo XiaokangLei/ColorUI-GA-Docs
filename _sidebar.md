@@ -5,7 +5,7 @@
  * @email: lxk201808@163.com
  * @Date: 2022-11-28 16:30:51
  * @LastEditors: Xiaokang Lei
- * @LastEditTime: 2022-11-30 14:58:03
+ * @LastEditTime: 2022-12-01 13:38:43
 -->
 
 - [**ColorUI GA**]()
@@ -17,7 +17,7 @@
   - [背景Background](/base/background.md)
   - [文本Text](/base/text.md)
   - [图标Icon](/base/icon.md)
-  - [按钮Button](/nodejs/base/debug-nodejs-with-chrome-devtools.md)
+  - [按钮Button](/base/button.md)
   - [标签Tag](/nodejs/base/debug-nodejs-with-chrome-devtools.md)
   - [头像Avatar](/_coverpage.md)
   - [进度条Progress](/_coverpage.md)

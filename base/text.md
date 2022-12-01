@@ -5,8 +5,12 @@
  * @email: lxk201808@163.com
  * @Date: 2022-11-29 18:21:55
  * @LastEditors: Xiaokang Lei
- * @LastEditTime: 2022-11-30 15:15:30
+ * @LastEditTime: 2022-12-01 15:19:35
 -->
+
+<div style="width:380px; height:750px; float:right; padding-left:3%;">
+    <iframe src="/h5/index.html" width="360" height="720" style="border-radius:15px; box-shadow:0 0 50px 0px rgb(30 0 60 / 15%);"></iframe>
+</div>
 
 # 文字Text
 
@@ -14,34 +18,7 @@
   <img width="160px" style="border-radius: 5%;" src="https://s1.ax1x.com/2022/11/30/zwKDdU.jpg">
 </div>
 
-## 大小
-
-<div align=center>
-    <img width="25%" src="https://s1.ax1x.com/2022/11/30/zwKroF.png">
-    <img width="25%" src="https://s1.ax1x.com/2022/11/30/zwKyi4.png">
-    <img width="25%" src="https://s1.ax1x.com/2022/11/30/zwK6JJ.png">
-</div>
-
-```css
-.text-xs {font-size: 20rpx;}
-.text-sm {font-size: 24rpx;}
-.text-df {font-size: 28rpx;}
-.text-lg {font-size: 32rpx;}
-.text-xl {font-size: 36rpx;}
-.text-xxl {font-size: 44rpx;}
-.text-sl {font-size: 80rpx;}
-.text-xsl {font-size: 120rpx;}
-```
-
-## 其他样式
-
-<div align=center>
-    <img width="25%" src="https://s1.ax1x.com/2022/11/30/zwKcW9.png">
-    <img width="25%" src="https://s1.ax1x.com/2022/11/30/zwKgzR.png">
-    <img width="25%" src="https://s1.ax1x.com/2022/11/30/zwKRQ1.png">
-</div>
-
-### 颜色
+## 颜色
 
 - 颜色值与background中的参数一致
 
@@ -63,7 +40,34 @@
 .text-white {color: var(--white);}
 ```
 
-### 阴影
+## 大小
+
+<!-- <div align=center>
+    <img width="25%" src="https://s1.ax1x.com/2022/11/30/zwKroF.png">
+    <img width="25%" src="https://s1.ax1x.com/2022/11/30/zwKyi4.png">
+    <img width="25%" src="https://s1.ax1x.com/2022/11/30/zwK6JJ.png">
+</div> -->
+
+```css
+.text-xs {font-size: 20rpx;}
+.text-sm {font-size: 24rpx;}
+.text-df {font-size: 28rpx;}
+.text-lg {font-size: 32rpx;}
+.text-xl {font-size: 36rpx;}
+.text-xxl {font-size: 44rpx;}
+.text-sl {font-size: 80rpx;}
+.text-xsl {font-size: 120rpx;}
+```
+
+<!-- ## 其他样式 -->
+
+<!-- <div align=center>
+    <img width="25%" src="https://s1.ax1x.com/2022/11/30/zwKcW9.png">
+    <img width="25%" src="https://s1.ax1x.com/2022/11/30/zwKgzR.png">
+    <img width="25%" src="https://s1.ax1x.com/2022/11/30/zwKRQ1.png">
+</div> -->
+
+## 阴影
 
 ```css
 .text-shadow[class*="-red"] {
@@ -110,7 +114,7 @@
 }
 ```
 
-### 截断
+## 截断
 
 样式
 
@@ -130,7 +134,7 @@
 </view>
 ```
 
-### 对齐
+## 对齐
 
 样式
 
@@ -159,7 +163,7 @@
 </view>
 ```
 
-### 特殊文字
+## 特殊文字
 
 示例
 
