@@ -5,11 +5,11 @@
  * @email: lxk201808@163.com
  * @Date: 2022-11-29 16:56:47
  * @LastEditors: Xiaokang Lei
- * @LastEditTime: 2022-12-01 15:19:03
+ * @LastEditTime: 2022-12-02 15:49:50
 -->
 
 <div style="width:380px; height:750px; float:right; padding-left:3%;">
-    <iframe src="./h5/index.html" width="360" height="720" style="border-radius:15px; box-shadow:0 0 50px 0px rgb(30 0 60 / 15%);"></iframe>
+    <iframe src="./h5/index.html#/pages/index/basics/background/background" width="360" height="720" style="border-radius:15px; box-shadow:0 0 50px 0px rgb(30 0 60 / 15%);"></iframe>
 </div>
 
 # 背景Background

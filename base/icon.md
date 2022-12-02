@@ -5,11 +5,11 @@
  * @email: lxk201808@163.com
  * @Date: 2022-11-30 14:56:28
  * @LastEditors: Xiaokang Lei
- * @LastEditTime: 2022-12-01 15:29:02
+ * @LastEditTime: 2022-12-02 15:51:14
 -->
 
 <div style="width:380px; height:750px; float:right; padding-left:3%;">
-    <iframe src="./h5/index.html" width="360" height="720" style="border-radius:15px; box-shadow:0 0 50px 0px rgb(30 0 60 / 15%);"></iframe>
+    <iframe src="./h5/index.html#/pages/index/basics/icon/icon" width="360" height="720" style="border-radius:15px; box-shadow:0 0 50px 0px rgb(30 0 60 / 15%);"></iframe>
 </div>
 
 # 图标Icon
