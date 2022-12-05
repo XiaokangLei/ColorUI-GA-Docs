@@ -5,7 +5,7 @@
  * @email: lxk201808@163.com
  * @Date: 2022-11-29 18:21:55
  * @LastEditors: Xiaokang Lei
- * @LastEditTime: 2022-12-02 15:50:26
+ * @LastEditTime: 2022-12-05 16:59:05
 -->
 
 <div style="width:380px; height:750px; float:right; padding-left:3%;">
@@ -17,6 +17,8 @@
 <div align=center>
   <img width="160px" style="border-radius: 5%;" src="https://s1.ax1x.com/2022/11/30/zwKDdU.jpg">
 </div>
+
+***代码位置：`/pages/index/basics/text/text.wxml`***
 
 ## 颜色
 
