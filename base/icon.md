@@ -5,11 +5,11 @@
  * @email: lxk201808@163.com
  * @Date: 2022-11-30 14:56:28
  * @LastEditors: Xiaokang Lei
- * @LastEditTime: 2022-12-06 18:22:06
+ * @LastEditTime: 2022-12-06 22:43:57
 -->
 
-<div style="width:320px; height:680px; float:right; position:fixed; right:3%;top: 40px;z-index: 99;">
-    <iframe src="./h5/index.html#/pages/index/basics/icon/icon" width="320" height="680" style="border-radius:15px; box-shadow:0 0 50px 0px rgb(30 0 60 / 15%);"></iframe>
+<div style="width:19%; height:88%; float:right; position:fixed; right:3%;top: 4%;z-index: 99;">
+    <iframe src="./h5/index.html#/pages/index/basics/icon/icon" width="100%" height="80%" style="border-radius:15px; box-shadow:0 0 50px 0px rgb(30 0 60 / 15%);"></iframe>
 </div>
 
 # 图标Icon

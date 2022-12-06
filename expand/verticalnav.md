@@ -5,11 +5,11 @@
  * @email: lxk201808@163.com
  * @Date: 2022-12-02 17:59:35
  * @LastEditors: Xiaokang Lei
- * @LastEditTime: 2022-12-02 17:59:36
+ * @LastEditTime: 2022-12-06 22:48:55
 -->
 
-<div style="width:400px; height:700px; float:right; padding-left:3%;">
-    <iframe src="./h5/index.html#/pages/index/plugin/verticalnav/verticalnav" width="400" height="750" style="border-radius:15px; box-shadow:0 0 50px 0px rgb(30 0 60 / 15%);"></iframe>
+<div style="width:19%; height:88%; float:right; position:fixed; right:3%;top: 4%;z-index: 99;">
+    <iframe src="./h5/index.html#/pages/index/plugin/verticalnav/verticalnav" width="100%" height="80%" style="border-radius:15px; box-shadow:0 0 50px 0px rgb(30 0 60 / 15%);"></iframe>
 </div>
 
 # 垂直导航Verticalnav
