@@ -5,18 +5,14 @@
  * @email: lxk201808@163.com
  * @Date: 2022-12-02 17:30:18
  * @LastEditors: Xiaokang Lei
- * @LastEditTime: 2022-12-05 17:00:56
+ * @LastEditTime: 2022-12-06 18:22:58
 -->
 
-<div style="width:400px; height:700px; float:right; padding-left:3%;">
-    <iframe src="./h5/index.html#/pages/index/basics/progress/progress" width="400" height="750" style="border-radius:15px; box-shadow:0 0 50px 0px rgb(30 0 60 / 15%);"></iframe>
+<div style="width:320px; height:680px; float:right; position:fixed; right:3%;top: 40px;z-index: 99;">
+    <iframe src="./h5/index.html#/pages/index/basics/progress/progress" width="320" height="680" style="border-radius:15px; box-shadow:0 0 50px 0px rgb(30 0 60 / 15%);"></iframe>
 </div>
 
 # 进度条Progress
-
-<div align=center>
-  <img width="160px" style="border-radius: 5%;" src="https://s1.ax1x.com/2022/11/30/zwKDdU.jpg">
-</div>
 
 ***代码位置：`/pages/index/basics/progress/progress.wxml`***
 

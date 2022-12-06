@@ -5,18 +5,14 @@
  * @email: lxk201808@163.com
  * @Date: 2022-12-02 17:39:32
  * @LastEditors: Xiaokang Lei
- * @LastEditTime: 2022-12-05 16:50:46
+ * @LastEditTime: 2022-12-06 18:23:08
 -->
 
-<div style="width:400px; height:700px; float:right; padding-left:3%;">
-    <iframe src="./h5/index.html#/pages/index/basics/shadow/shadow" width="400" height="750" style="border-radius:15px; box-shadow:0 0 50px 0px rgb(30 0 60 / 15%);"></iframe>
+<div style="width:320px; height:680px; float:right; position:fixed; right:3%;top: 40px;z-index: 99;">
+    <iframe src="./h5/index.html#/pages/index/basics/shadow/shadow" width="320" height="680" style="border-radius:15px; box-shadow:0 0 50px 0px rgb(30 0 60 / 15%);"></iframe>
 </div>
 
 # 边框阴影Shadow
-
-<div align=center>
-  <img width="160px" style="border-radius: 5%;" src="https://s1.ax1x.com/2022/11/30/zwKDdU.jpg">
-</div>
 
 ***代码位置`/pages/index/basics/shadow/shadow.wxml`***
 

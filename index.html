@@ -20,10 +20,60 @@
       s.parentNode.insertBefore(hm, s);
     })();
   </script>
+  <style>
+
+    .sidebar {
+      width: 220px;
+    }
+    .markdown-section {
+      margin-left: 1%;
+      max-width: 70%;
+    }
+    @media (max-width:600px) {
+
+      /*代码块复制按钮默认隐藏*/
+      .docsify-copy-code-button {
+        display: none;
+      }
+
+      .advertisement{
+        display: none;
+      }
+
+    }
+    .advertisement {
+      position: fixed;
+      right: 6.8%;
+      bottom: 1%;
+      width: 160px;
+      padding: 10px;
+      z-index: 99;
+      text-align: center;
+    }
+    .advertisement p,
+    h4 {
+      margin: 0;
+      padding: 0;
+    }
+
+    .advertisement .Tencent_code h4 {
+      font-size: 15px;
+      color: #25a46a;
+      margin-bottom: 10px;
+    }
+  </style>
 </head>
 
 <body>
   <div id="app"></div>
+  <div class="aside_container">
+    <div class="advertisement">
+      <div class="Tencent_code">
+        <img src="https://s1.ax1x.com/2022/11/30/zwKDdU.jpg" alt="EnjoyToShare" />
+        <h4>扫码预览</h4>
+      </div>
+    </div>
+</div>
   <script>
     
     window.$docsify = {

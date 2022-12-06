@@ -5,22 +5,19 @@
  * @email: lxk201808@163.com
  * @Date: 2022-11-28 16:30:51
  * @LastEditors: Xiaokang Lei
- * @LastEditTime: 2022-12-01 15:36:31
+ * @LastEditTime: 2022-12-06 18:30:12
 -->
 
-<div style="width:400px; height:700px; float:right; padding-left:3%;">
-    <iframe src="./h5/index.html" width="400" height="750" style="border-radius:15px; box-shadow:0 0 50px 0px rgb(30 0 60 / 15%);"></iframe>
+<div style="width:320px; height:680px; float:right; position:fixed; right:3%;top: 40px;z-index: 99;">
+    <iframe src="./h5/index.html" width="320" height="680" style="border-radius:15px; box-shadow:0 0 50px 0px rgb(30 0 60 / 15%);"></iframe>
 </div>
 
-# ColorUI GA
+# 🌈ColorUI GA
 
-[![stars](https://badgen.net/github/stars/XiaokangLei/ColorUI-GA?icon=github&color=4ab8a1)](https://github.com/XiaokangLei/ColorUI-GA) [![forks](https://badgen.net/github/forks/XiaokangLei/ColorUI-GA?icon=github&color=4ab8a1)](https://github.com/XiaokangLei/ColorUI-GA)
+[![stars](https://badgen.net/github/stars/XiaokangLei/ColorUI-GA?icon=github&color=4ab8a1)](https://github.com/XiaokangLei/ColorUI-GA) [![forks](https://badgen.net/github/forks/XiaokangLei/ColorUI-GA?icon=github&color=4ab8a1)](https://github.com/XiaokangLei/ColorUI-GA) [<img src="https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1-%E5%85%AC%E4%BC%97%E5%8F%B7-brightgreen">](https://s1.ax1x.com/2022/11/30/zwKWsx.jpg)
 
 ColorUI GA是基于ColorUI 2.0开发的小程序**原生**css组件库，理论上适用于其他支持css库的所有平台。在原组件库的基础上会增加部分样式和模板，长期更新，如果您有好的想法或对本项目有任何建议以及发现文中内容有误的请提交 [Github Issues](https://github.com/XiaokangLei/ColorUI-GA/issues)。对于想要一起开发，补充CSS样式库的朋友，欢迎提交 PR。
 
-<div align=center>
-  <img width="160px" style="border-radius: 5%;" bor src="https://s1.ax1x.com/2022/11/30/zwKDdU.jpg">
-</div>
 
 ## 快速开始(原生小程序)
 
@@ -114,3 +111,14 @@ onLaunch: function() {
 @import "colorui/dark.wxss";
 </style>
 ```
+
+<br>
+
+<span id="busuanzi_container_site_pv" style='display:none'>
+    本站总访问量：<span id="busuanzi_value_site_pv"></span> 次
+</span>
+<span id="busuanzi_container_site_uv" style='display:none'>
+    | 本站总访客数：<span id="busuanzi_value_site_uv"></span> 人
+</span>
+
+<br>

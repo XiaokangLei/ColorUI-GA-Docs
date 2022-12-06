@@ -5,7 +5,7 @@
  * @email: lxk201808@163.com
  * @Date: 2022-12-02 17:43:07
  * @LastEditors: Xiaokang Lei
- * @LastEditTime: 2022-12-02 17:44:08
+ * @LastEditTime: 2022-12-06 15:55:33
 -->
 
 <div style="width:400px; height:700px; float:right; padding-left:3%;">
@@ -17,3 +17,13 @@
 <div align=center>
   <img width="160px" style="border-radius: 5%;" src="https://s1.ax1x.com/2022/11/30/zwKDdU.jpg">
 </div>
+
+***代码位置：`/pages/index/component/bar/bar.wxml`***
+
+## 顶部操作条
+
+- 页面顶部样式
+
+```html
+
+```
