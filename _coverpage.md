@@ -1,4 +1,4 @@
-<img width="160px" style="border-radius: 50%" bor src="https://s1.ax1x.com/2022/11/30/zwKBZT.png">
+<img width="160px" style="border-radius: 50%" src="https://s1.ax1x.com/2022/11/30/zwKBZT.png">
 
 # ColorUI GA 文档说明
 

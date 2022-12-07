@@ -5,10 +5,10 @@
  * @email: lxk201808@163.com
  * @Date: 2022-11-28 16:30:51
  * @LastEditors: Xiaokang Lei
- * @LastEditTime: 2022-12-06 23:20:11
+ * @LastEditTime: 2022-12-07 14:47:12
 -->
 
-<div style="width:19%; height:88%; float:right; position:fixed; right:3%;top: 4%;z-index: 99;">
+<div style="width:17%; height:86%; float:right; position:fixed; right:3%;top: 4%;z-index: 99;">
     <iframe src="./h5/index.html" width="100%" height="80%" style="border-radius:15px; box-shadow:0 0 50px 0px rgb(30 0 60 / 15%);"></iframe>
 </div>
 
@@ -16,7 +16,7 @@
 
 [![stars](https://badgen.net/github/stars/XiaokangLei/ColorUI-GA?icon=github&color=4ab8a1)](https://github.com/XiaokangLei/ColorUI-GA) [![forks](https://badgen.net/github/forks/XiaokangLei/ColorUI-GA?icon=github&color=4ab8a1)](https://github.com/XiaokangLei/ColorUI-GA) [<img src="https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1-%E5%85%AC%E4%BC%97%E5%8F%B7-brightgreen">](https://s1.ax1x.com/2022/11/30/zwKWsx.jpg)
 
-ColorUI GA是基于ColorUI 2.0开发的小程序**原生**css组件库，理论上适用于其他支持css库的所有平台。在原组件库的基础上会增加部分样式和模板，长期更新，如果您有好的想法或对本项目有任何建议以及发现文中内容有误的请提交 [Github Issues](https://github.com/XiaokangLei/ColorUI-GA/issues)。对于想要一起开发，补充CSS样式库的朋友，欢迎提交 PR。
+ColorUI GA是基于ColorUI 2.0开发的轻量、可靠的小程序**原生**css组件库，理论上适用于其他支持css库的所有平台。在原组件库的基础上会增加部分样式和模板，长期更新，如果您有好的想法或对本项目有任何建议以及发现文中内容有误的请提交 [Github Issues](https://github.com/XiaokangLei/ColorUI-GA/issues)。对于想要一起开发，补充CSS样式库的朋友，欢迎提交 PR。
 
 
 ## 快速开始(原生小程序)
