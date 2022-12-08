@@ -5,7 +5,7 @@
  * @email: lxk201808@163.com
  * @Date: 2022-11-28 16:30:51
  * @LastEditors: Xiaokang Lei
- * @LastEditTime: 2022-12-08 17:04:00
+ * @LastEditTime: 2022-12-08 17:11:53
 -->
 
 - [**🌈ColorUI GA**]()
@@ -43,6 +43,7 @@
   - [🏝️垂直导航](/expand/verticalnav.md)
   - [🏕️瀑布流](/expand/waterfall.md)
 
-- 🗼模板设计
+- 🗼UI模板设计
   - [🏠首页](/template/index.md)
   - [⛺个人中心](/template/user.md)
+  - [🌁用户列表](/template/userlist.md)
