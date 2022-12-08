@@ -8,7 +8,7 @@
  * @LastEditTime: 2022-12-06 22:45:29
 -->
 
-<div style="width:17%; height:86%; float:right; position:fixed; right:3%;top: 4%;z-index: 99;">
+<div class="minipre" style="width:18%; height:86%; float:right; position:fixed; right:3%;top: 4%;z-index: 99;">
     <iframe src="./h5/index.html#/pages/index/basics/tag/tag" width="100%" height="80%" style="border-radius:15px; box-shadow:0 0 50px 0px rgb(30 0 60 / 15%);"></iframe>
 </div>
 

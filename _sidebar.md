@@ -5,7 +5,7 @@
  * @email: lxk201808@163.com
  * @Date: 2022-11-28 16:30:51
  * @LastEditors: Xiaokang Lei
- * @LastEditTime: 2022-12-06 18:29:40
+ * @LastEditTime: 2022-12-08 17:04:00
 -->
 
 - [**🌈ColorUI GA**]()
@@ -37,11 +37,12 @@
   - [⌛步骤条Steps](/component/steps.md)
 
 - 💡扩展
-  - [索引列表Indexs](/expand/indexs.md)
-  - [微动画Animation](/expand/animation.md)
+  - [🏜️索引列表Indexs](/expand/indexs.md)
+  - [🏞️微动画Animation](/expand/animation.md)
   - [🗃️全屏抽屉](/expand/drawer.md)
-  - [垂直导航](/expand/verticalnav.md)
+  - [🏝️垂直导航](/expand/verticalnav.md)
+  - [🏕️瀑布流](/expand/waterfall.md)
 
-- 模板设计
-  - [首页](/template/index.md)
-  - [个人中心](/template/user.md)
+- 🗼模板设计
+  - [🏠首页](/template/index.md)
+  - [⛺个人中心](/template/user.md)
