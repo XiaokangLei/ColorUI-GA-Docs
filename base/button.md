@@ -5,7 +5,7 @@
  * @email: lxk201808@163.com
  * @Date: 2022-11-30 15:17:24
  * @LastEditors: Xiaokang Lei
- * @LastEditTime: 2022-12-06 22:43:47
+ * @LastEditTime: 2022-12-09 17:03:44
 -->
 
 <div class="minipre" style="width:18%; height:86%; float:right; position:fixed; right:3%;top: 4%;z-index: 99;">
@@ -78,3 +78,7 @@
   <text class="cuIcon-loading2 iconfont-spin"></text> 加载</button>
 <button class="cu-btn block bg-black margin-tb-sm lg" loading> 微信加载</button>
 ```
+
+<br>
+
+本文总阅读量：<span id="busuanzi_value_page_pv"></span> 次

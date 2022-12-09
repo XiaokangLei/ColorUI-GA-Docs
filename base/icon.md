@@ -5,7 +5,7 @@
  * @email: lxk201808@163.com
  * @Date: 2022-11-30 14:56:28
  * @LastEditors: Xiaokang Lei
- * @LastEditTime: 2022-12-06 22:43:57
+ * @LastEditTime: 2022-12-09 17:03:49
 -->
 
 <div class="minipre" style="width:18%; height:86%; float:right; position:fixed; right:3%;top: 4%;z-index: 99;">
@@ -42,3 +42,7 @@
 ```
 
 其他组合参考小程序源码示例
+
+<br>
+
+本文总阅读量：<span id="busuanzi_value_page_pv"></span> 次

@@ -7,6 +7,8 @@
 
 [![stars](https://badgen.net/github/stars/XiaokangLei/ColorUI-GA?icon=github&color=4ab8a1)](https://github.com/XiaokangLei/ColorUI-GA) [![forks](https://badgen.net/github/forks/XiaokangLei/ColorUI-GA?icon=github&color=4ab8a1)](https://github.com/XiaokangLei/ColorUI-GA)
 
+本站总访问量：<span id="busuanzi_value_site_pv"></span> 次  |  本站总访客数：<span id="busuanzi_value_site_uv"></span> 人
+
 <!-- <img width="160px" style="border-radius: 5%; margin:0 2%" bor src="https://s1.ax1x.com/2022/11/30/zwKWsx.jpg"> -->
 <!-- <img width="160px" style="border-radius: 5%; margin:0 2%" bor src="https://s1.ax1x.com/2022/11/30/zwKDdU.jpg"> -->
 

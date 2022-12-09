@@ -5,7 +5,7 @@
  * @email: lxk201808@163.com
  * @Date: 2022-11-29 10:02:06
  * @LastEditors: Xiaokang Lei
- * @LastEditTime: 2022-12-08 14:17:37
+ * @LastEditTime: 2022-12-09 17:06:21
 -->
 # 支持作者
 
@@ -29,3 +29,7 @@
 <div align=center>
     <img width="50%" style="border-radius: 5%" bor src="https://pic3.zhimg.com/80/v2-a1225a9a1ea9b01aeb77ca915811fb5e_1440w.webp">
 </div>
+
+<br>
+
+本文总阅读量：<span id="busuanzi_value_page_pv"></span> 次

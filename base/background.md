@@ -5,7 +5,7 @@
  * @email: lxk201808@163.com
  * @Date: 2022-11-29 16:56:47
  * @LastEditors: Xiaokang Lei
- * @LastEditTime: 2022-12-06 22:43:42
+ * @LastEditTime: 2022-12-09 17:03:33
 -->
 
 <div class="minipre" style="width:18%; height:86%; float:right; position:fixed; right:3%;top: 4%;z-index: 99;">
@@ -108,3 +108,7 @@ page {
   font-family: Helvetica Neue, Helvetica, sans-serif;
 }
 ```
+
+<br>
+
+本文总阅读量：<span id="busuanzi_value_page_pv"></span> 次

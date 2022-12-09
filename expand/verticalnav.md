@@ -5,7 +5,7 @@
  * @email: lxk201808@163.com
  * @Date: 2022-12-02 17:59:35
  * @LastEditors: Xiaokang Lei
- * @LastEditTime: 2022-12-09 15:52:57
+ * @LastEditTime: 2022-12-09 17:05:41
 -->
 
 <div class="minipre" style="width:18%; height:86%; float:right; position:fixed; right:3%;top: 4%;z-index: 99;">
@@ -123,3 +123,7 @@
   </scroll-view>
 </view>
 ```
+
+<br>
+
+本文总阅读量：<span id="busuanzi_value_page_pv"></span> 次

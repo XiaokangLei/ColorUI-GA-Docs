@@ -5,7 +5,7 @@
  * @email: lxk201808@163.com
  * @Date: 2022-11-28 16:30:51
  * @LastEditors: Xiaokang Lei
- * @LastEditTime: 2022-12-08 16:22:19
+ * @LastEditTime: 2022-12-09 17:07:09
 -->
 
 <div class="minipre" style="width:18%; height:86%; float:right; position:fixed; right:3%;top: 4%;z-index: 99;">
@@ -114,11 +114,4 @@ onLaunch: function() {
 
 <br>
 
-<span id="busuanzi_container_site_pv" style='display:none'>
-    本站总访问量：<span id="busuanzi_value_site_pv"></span> 次
-</span>
-<span id="busuanzi_container_site_uv" style='display:none'>
-    | 本站总访客数：<span id="busuanzi_value_site_uv"></span> 人
-</span>
-
-<br>
+本文总阅读量：<span id="busuanzi_value_page_pv"></span> 次

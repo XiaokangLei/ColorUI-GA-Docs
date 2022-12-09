@@ -5,7 +5,7 @@
  * @email: lxk201808@163.com
  * @Date: 2022-12-02 18:02:57
  * @LastEditors: Xiaokang Lei
- * @LastEditTime: 2022-12-06 22:49:12
+ * @LastEditTime: 2022-12-09 17:06:33
 -->
 
 <div class="minipre" style="width:18%; height:86%; float:right; position:fixed; right:3%;top: 4%;z-index: 99;">
@@ -17,3 +17,7 @@
 <div align=center>
   <img width="160px" style="border-radius: 5%;" src="https://s1.ax1x.com/2022/11/30/zwKDdU.jpg">
 </div>
+
+<br>
+
+本文总阅读量：<span id="busuanzi_value_page_pv"></span> 次
