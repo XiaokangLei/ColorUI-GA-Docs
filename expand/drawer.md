@@ -5,7 +5,7 @@
  * @email: lxk201808@163.com
  * @Date: 2022-12-02 17:58:24
  * @LastEditors: Xiaokang Lei
- * @LastEditTime: 2022-12-06 22:48:46
+ * @LastEditTime: 2022-12-09 15:50:07
 -->
 
 <div class="minipre" style="width:18%; height:86%; float:right; position:fixed; right:3%;top: 4%;z-index: 99;">
@@ -14,6 +14,46 @@
 
 # 全屏抽屉
 
-<div align=center>
-  <img width="160px" style="border-radius: 5%;" src="https://s1.ax1x.com/2022/11/30/zwKDdU.jpg">
-</div>
+***代码位置：`/pages/index/plugin/drawer/drawer.wxml`***
+
+## 基本样式
+
+```html
+<view class='padding margin text-center'>
+    <view class='cu-btn bg-green lg block shadow radius margin-xl' bindtap="showModal" data-target="viewModal">
+      打开抽屉
+    </view>
+  </view>
+
+  <view class="cu-list menu card-menu margin-top-xl margin-bottom-xl shadow-lg">
+    <view class="cu-item arrow" wx:for="{{20}}" wx:key="index">
+      <view class="content">
+        <text class="cuIcon-github text-grey"></text>
+        <text class="text-grey">{{index +1}}</text>
+      </view>
+    </view>
+  </view>
+
+  <view class='padding margin text-center'>
+    <view class='cu-btn bg-green lg block shadow radius margin-xl' bindtap="showModal" data-target="viewModal">
+      打开抽屉
+    </view>
+  </view>
+
+</scroll-view>
+
+<view class="DrawerClose {{modalName=='viewModal'?'show':''}}" bindtap="hideModal">
+  <text class="cuIcon-pullright"></text>
+</view>
+
+<scroll-view scroll-y class="DrawerWindow {{modalName=='viewModal'?'show':''}}">
+  <view class="cu-list menu card-menu margin-top-xl margin-bottom-xl shadow-lg">
+    <view class="cu-item arrow" wx:for="{{20}}" wx:key="index">
+      <view class="content">
+        <text class="cuIcon-github text-grey"></text>
+        <text class="text-grey">{{index +1}}</text>
+      </view>
+    </view>
+  </view>
+</scroll-view>
+```
