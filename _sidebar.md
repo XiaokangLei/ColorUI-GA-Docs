@@ -5,7 +5,7 @@
  * @email: lxk201808@163.com
  * @Date: 2022-11-28 16:30:51
  * @LastEditors: Xiaokang Lei
- * @LastEditTime: 2022-12-09 15:56:01
+ * @LastEditTime: 2022-12-15 20:46:44
 -->
 
 - [**🌈ColorUI GA**]()
@@ -21,8 +21,12 @@
   - [🏷️标签Tag](/base/tag.md)
   - [⛱️头像Avatar](/base/avatar.md)
   - [📉进度条Progress](/base/progress.md)
-  - [🛡️边框阴影Shadow](/base/shadow.md)
+  - [🛡️阴影Shadow](/base/shadow.md)
   - [📥加载Loading](/base/loading.md)
+  - [☂️标题Title](/base/title.md)
+  - [🧱边框Border](/base/border.md)
+  - [🎛️开关Switch](/base/switch.md)
+  - [🎚️复选框Checkbox](/base/checkbox.md)
 
 - 📦组件布局
   - [🪧操作条Bar](/component/bar.md)
@@ -31,20 +35,37 @@
   - [🪪卡片Card](/component/card.md)
   - [📋表单Form](/component/form.md)
   - [📆时间轴Timeline](/component/timeline.md)
-  - [📱聊天Chat](/component/chat.md)
   - [🖼️轮播Swiper](/component/swiper.md)
   - [🗂️模态框Modal](/component/modal.md)
   - [⌛步骤条Steps](/component/steps.md)
+  - [🪟轻提示Toast](/component/toast.md)
+  - [🪪状态提示Status](/component/status.md)
+  - [📋评分Rate](/component/rate.md)
+  - [📆手风琴Piano](/component/piano.md)
+  - [🖼️滚动提示Tips](/component/tips.md)
+  - [🗂️日历Calendar](/component/calendar.md)
+  - [⌛表格Table](/component/table.md)
 
 - 💡扩展
   - [🏜️索引列表Indexs](/expand/indexs.md)
   - [🏞️微动画Animation](/expand/animation.md)
-  - [🗃️全屏抽屉](/expand/drawer.md)
-  - [🏝️垂直导航](/expand/verticalnav.md)
-  - [🏕️瀑布流](/expand/waterfall.md)
+  - [🗃️全屏抽屉Drawer](/expand/drawer.md)
+  - [🏝️垂直导航Verticalnav](/expand/verticalnav.md)
+  - [📱聊天Chat](/component/chat.md)
+  - [🏕️瀑布流Waterfall](/expand/waterfall.md)
+  - [🏜️卡片翻转Overturn](/expand/overturn.md)
+  - [🏞️骨架屏Skeleton](/expand/skeleton.md)
+  - [🗃️抽奖Draw](/expand/draw.md)
+  - [🏝️历史搜索Search](/expand/search.md)
+  - [🏕️打卡Clockin](/expand/clockin.md)
+  - [🗃️卡券Coupon](/expand/coupon.md)
+  - [🫐商品滑动Goods](/expand/goods.md)
+  - [🍱卡片设计Design](/expand/design.md)
 
 - 🗼UI模板设计
   - [🏠首页](/template/index.md)
   - [⛺个人中心](/template/user.md)
   - [🌁用户列表](/template/userlist.md)
   - [💬评论页](/template/comment.md)
+  - [🍥消息列表Message](/template/message.md)
+  - [🎵音乐播放Music](/template/music.md)

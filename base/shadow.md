@@ -5,14 +5,14 @@
  * @email: lxk201808@163.com
  * @Date: 2022-12-02 17:39:32
  * @LastEditors: Xiaokang Lei
- * @LastEditTime: 2022-12-09 17:04:14
+ * @LastEditTime: 2022-12-15 20:15:54
 -->
 
 <div class="minipre" style="width:18%; height:86%; float:right; position:fixed; right:3%;top: 4%;z-index: 99;">
     <iframe src="./h5/index.html#/pages/index/basics/shadow/shadow" width="100%" height="80%" style="border-radius:15px; box-shadow:0 0 50px 0px rgb(30 0 60 / 15%);"></iframe>
 </div>
 
-# 边框阴影Shadow
+# 阴影Shadow
 
 ***代码位置`/pages/index/basics/shadow/shadow.wxml`***
 
