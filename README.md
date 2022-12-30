@@ -5,24 +5,28 @@
  * @email: lxk201808@163.com
  * @Date: 2022-11-28 16:30:51
  * @LastEditors: Xiaokang Lei
- * @LastEditTime: 2022-12-09 17:07:09
+ * @LastEditTime: 2022-12-30 14:37:26
 -->
 
-<div class="minipre" style="width:18%; height:86%; float:right; position:fixed; right:3%;top: 4%;z-index: 99;">
+<div class="minipre" style="width:18%; min-width:275px; height:90%; float:right; position:fixed; right:2.5%;top:2%;z-index:99;">
     <iframe src="./h5/index.html" width="100%" height="80%" style="border-radius:15px; box-shadow:0 0 50px 0px rgb(30 0 60 / 15%);"></iframe>
 </div>
 
-# 🌈ColorUI GA
+# 🌈ColorUI GA 简介
 
 [![stars](https://badgen.net/github/stars/XiaokangLei/ColorUI-GA?icon=github&color=4ab8a1)](https://github.com/XiaokangLei/ColorUI-GA) [![forks](https://badgen.net/github/forks/XiaokangLei/ColorUI-GA?icon=github&color=4ab8a1)](https://github.com/XiaokangLei/ColorUI-GA) [<img src="https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1-%E5%85%AC%E4%BC%97%E5%8F%B7-brightgreen">](https://s1.ax1x.com/2022/11/30/zwKWsx.jpg)
 
-ColorUI GA是基于ColorUI 2.0开发的轻量、可靠的小程序**原生**css组件库，理论上适用于其他支持css库的所有平台。在原组件库的基础上会增加部分样式和模板，长期更新，如果您有好的想法或对本项目有任何建议以及发现文中内容有误的请提交 [Github Issues](https://github.com/XiaokangLei/ColorUI-GA/issues)。对于想要一起开发，补充CSS样式库的朋友，欢迎提交 PR。
+[ColorUI GA](https://github.com/XiaokangLei/ColorUI-GA) 是基于ColorUI 2.0开发的轻量、可靠的小程序**原生**css组件库，理论上适用于其他支持css库的所有平台。
 
+在原组件库的基础上会增加部分样式和模板，长期更新，如果您有好的想法或对本项目有任何建议、需求以及发现文中内容有误，请提交 [Github Issues](https://github.com/XiaokangLei/ColorUI-GA/issues)。
+
+对于想要一起开发，补充CSS样式库的朋友，欢迎提交 PR。
 
 ## 快速开始(原生小程序)
 
 - 1、下载 [源码](https://github.com/XiaokangLei/ColorUI-GA) 并解压，复制`/colorui`文件夹到项目根目录
 - 2、`app.wxss`引入关键css：`main.wxss`,`icon.wxss`
+- 3、【**注意**】部分样式需要page中的wxss样式及js代码一起使用才能看到完整效果，请注意查看源码
 
 ```js
 // 根目录 app.wxss 文件
@@ -82,11 +86,11 @@ onLaunch: function() {
 | isCustom | 是否开启左侧胶囊 | Boolean | false  |
 | bgImage  |   背景图片路径   | String  |   ''   |
 
-| slot块   |                作用                |
-| -------- | :--------------------------------: |
-| backText |            返回时的文字             |
-| content  |              中间区域               |
-| right    | 右侧区域（胶囊占位可使用范围很窄！）   |
+| slot块   |                 作用                 |
+| -------- | :----------------------------------: |
+| backText |             返回时的文字             |
+| content  |               中间区域               |
+| right    | 右侧区域（胶囊占位可使用范围很窄！） |
 
 - 5、示例
 
@@ -100,6 +104,7 @@ onLaunch: function() {
 
 - 1、下载 [源码](https://github.com/XiaokangLei/ColorUI-GA) 并解压，复制`/colorui`文件夹到项目根目录
 - 2、`app.vue`引入关键css：`main.wxss`,`icon.wxss`
+- 3、【**注意**】部分样式需要仿照原生小程序page中的wxss样式及js代码一起使用才能看到完整效果，请注意查看源码，由于精力有限，暂不提供uniapp版本demo
 
 ```js
 <style>
@@ -111,7 +116,3 @@ onLaunch: function() {
 @import "colorui/dark.wxss";
 </style>
 ```
-
-<br>
-
-本文总阅读量：<span id="busuanzi_value_page_pv"></span> 次

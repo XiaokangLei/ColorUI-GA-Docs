@@ -3,14 +3,13 @@
 
 <head>
   <meta charset="UTF-8">
-  <title>ColorUI GA</title>
+  <title>ColorUI GA文档</title>
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <meta name="description" content="Description">
   <meta name="viewport"
     content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
   <link rel="shortcut icon" href="/img/favicon.png">
   <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css">
-  <!-- <link rel="stylesheet" href="//unpkg.com/gitalk/dist/gitalk.css"> -->
   <style>
     .content {
       padding-top: 3%;
@@ -27,7 +26,7 @@
     }
 
     .sidebar {
-      width: 13%;
+      width: 12%;
     }
 
     .markdown-section {
@@ -35,7 +34,7 @@
       max-width: 70%;
     }
 
-    @media (max-width:600px) {
+    @media (max-width:1200px) {
 
       /*代码块复制按钮默认隐藏*/
       .docsify-copy-code-button {
@@ -47,7 +46,7 @@
       }
 
       .sidebar {
-        width: 50%;
+        width: 20%;
       }
 
       .content {
@@ -56,7 +55,43 @@
         top: 0;
         right: 0;
         bottom: 0;
-        left: 5%;
+        left: 25%;
+        transition: left .25s ease;
+      }
+
+      .markdown-section {
+        margin-left: 1%;
+        max-width: 96%;
+      }
+
+      .minipre {
+        display: none;
+      }
+
+    }
+
+    @media (max-width:720px) {
+
+      /*代码块复制按钮默认隐藏*/
+      .docsify-copy-code-button {
+        display: none;
+      }
+
+      .advertisement {
+        display: none;
+      }
+
+      .sidebar {
+        width: 25%;
+      }
+
+      .content {
+        padding-top: 3%;
+        position: absolute;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        left: 6%;
         transition: left .25s ease;
       }
 
@@ -73,10 +108,11 @@
 
     .advertisement {
       position: fixed;
-      right: 6.8%;
-      bottom: 1%;
+      right: 5.5%;
+      bottom: 0;
       width: 10%;
-      padding: 8px;
+      min-width: 160px;
+      padding: 6px;
       z-index: 99;
       text-align: center;
     }
@@ -90,7 +126,6 @@
     .advertisement .Tencent_code h4 {
       font-size: 15px;
       color: #25a46a;
-      /* margin-bottom: 10px; */
     }
   </style>
 </head>
@@ -157,15 +192,12 @@
   </script>
 
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
-  <!-- <script src="//unpkg.com/gitalk/dist/gitalk.min.js"></script> -->
   <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.js"></script>
   <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
   <script src="//unpkg.com/docsify/lib/plugins/zoom-image.js"></script>
   <script src="//unpkg.com/prismjs/components/prism-bash.js"></script>
   <script src="//unpkg.com/prismjs/components/prism-java.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify-copy-code"></script>
-  <!-- 访问量统计 -->
-  <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 
 </body>
 

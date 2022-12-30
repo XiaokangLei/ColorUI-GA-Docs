@@ -5,18 +5,20 @@
  * @email: lxk201808@163.com
  * @Date: 2022-11-28 19:17:36
  * @LastEditors: Xiaokang Lei
- * @LastEditTime: 2022-12-09 17:03:58
+ * @LastEditTime: 2022-12-30 14:50:53
 -->
 
-<div class="minipre" style="width:18%; height:86%; float:right; position:fixed; right:3%;top: 4%;z-index: 99;">
+<div class="minipre" style="width:18%; min-width:275px; height:90%; float:right; position:fixed; right:2.5%;top:2%;z-index:99;">
     <iframe src="./h5/index.html#/pages/index/basics/layout/layout" width="100%" height="80%" style="border-radius:15px; box-shadow:0 0 50px 0px rgb(30 0 60 / 15%);"></iframe>
 </div>
 
-# 布局Layout
+# 🧮布局Layout
 
 ***代码位置：`/pages/index/basics/layout/layout.wxml`***
 
 ## Flex布局
+
+- flex基础知识详解参考: <https://zhuanlan.zhihu.com/p/52280195>
 
 ### 固定尺寸
 
@@ -268,7 +270,3 @@
     <view class="basis-df">.padding-left-{size}</view>
 </view>
 ```
-
-<br>
-
-本文总阅读量：<span id="busuanzi_value_page_pv"></span> 次

@@ -9,7 +9,7 @@
 -->
 # 支持作者
 
-<div class="minipre" style="width:18%; height:86%; float:right; position:fixed; right:3%;top: 4%;z-index: 99;">
+<div class="minipre" style="width:18%; min-width:275px; height:90%; float:right; position:fixed; right:2.5%;top:2%;z-index:99;">
     <iframe src="./h5/index.html" width="100%" height="80%" style="border-radius:15px; box-shadow:0 0 50px 0px rgb(30 0 60 / 15%);"></iframe>
 </div>
 
@@ -32,4 +32,4 @@
 
 <br>
 
-本文总阅读量：<span id="busuanzi_value_page_pv"></span> 次
+

@@ -5,33 +5,33 @@
  * @email: lxk201808@163.com
  * @Date: 2022-11-29 16:56:47
  * @LastEditors: Xiaokang Lei
- * @LastEditTime: 2022-12-09 17:03:33
+ * @LastEditTime: 2022-12-30 14:51:41
 -->
 
-<div class="minipre" style="width:18%; height:86%; float:right; position:fixed; right:3%;top: 4%;z-index: 99;">
+<div class="minipre" style="width:18%; min-width:275px; height:90%; float:right; position:fixed; right:2.5%;top:2%;z-index:99;">
     <iframe src="./h5/index.html#/pages/index/basics/background/background" width="100%" height="80%" style="border-radius:15px; box-shadow:0 0 50px 0px rgb(30 0 60 / 15%);"></iframe>
 </div>
 
-# 背景Background
+# 🖼️背景Background
 
 ***代码位置：`/pages/index/basics/background/background.wxml`***
 
 ## 使用方法
 
-<!-- <div align=center>
-    <img width="19%" src="https://s1.ax1x.com/2022/11/30/zwKAaD.png">
-    <img width="19%" src="https://s1.ax1x.com/2022/11/30/zwKkVO.png">
-    <img width="19%" src="https://s1.ax1x.com/2022/11/30/zwKiqK.png">
-    <img width="19%" src="https://s1.ax1x.com/2022/11/30/zwKPr6.png">
-    <img width="19%" src="https://s1.ax1x.com/2022/11/30/zwKQqf.png">
-</div> -->
+- `class`引入即可
 
 ```html
 <view class="bg-red"></view>
-<view class="bg-white"></view>
+<view class="bg-oc-pink-5"></view>
 ```
 
+## 十级纯色背景色
+
+- 13种十级纯色背景参考地址：<https://yeun.github.io/open-color/>
+
 ## 标准色
+
+- 代码位置：`/colorui/main.wxss`, 可以自定义相关配色
 
 ```css
 page {
@@ -101,14 +101,9 @@ page {
   --greyShadow: rgba(114, 130, 138, 0.2);
   --grayShadow: rgba(114, 130, 138, 0.2);
   --blackShadow: rgba(26, 26, 26, 0.2);
-
   background-color: var(--ghostWhite);
   font-size: 28rpx;
   color: var(--black);
   font-family: Helvetica Neue, Helvetica, sans-serif;
 }
 ```
-
-<br>
-
-本文总阅读量：<span id="busuanzi_value_page_pv"></span> 次

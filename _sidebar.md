@@ -5,10 +5,10 @@
  * @email: lxk201808@163.com
  * @Date: 2022-11-28 16:30:51
  * @LastEditors: Xiaokang Lei
- * @LastEditTime: 2022-12-15 20:46:44
+ * @LastEditTime: 2022-12-30 14:21:31
 -->
 
-- [**🌈ColorUI GA**]()
+- [**ColorUI GA文档**]()
   - [🎬快速开始](README.md)
   - [❤️支持作者](/other/support.md)
 
