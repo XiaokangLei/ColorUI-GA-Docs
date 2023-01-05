@@ -5,7 +5,7 @@
  * @email: lxk201808@163.com
  * @Date: 2022-11-28 16:30:51
  * @LastEditors: Xiaokang Lei
- * @LastEditTime: 2022-12-30 14:37:26
+ * @LastEditTime: 2023-01-05 17:01:31
 -->
 
 <div class="minipre" style="width:18%; min-width:275px; height:90%; float:right; position:fixed; right:2.5%;top:2%;z-index:99;">
@@ -64,7 +64,7 @@ onLaunch: function() {
   "navigationStyle": "custom"
 },
 "usingComponents": {
-  "cu-custom":"/colorui/components/cu-custom"
+  "cu-custom":"/colorui/components/cu-custom/cu-custom"
 }
 ```
 
