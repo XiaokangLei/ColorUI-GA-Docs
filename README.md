@@ -5,7 +5,7 @@
  * @email: lxk201808@163.com
  * @Date: 2022-11-28 16:30:51
  * @LastEditors: Xiaokang Lei
- * @LastEditTime: 2023-01-05 17:01:31
+ * @LastEditTime: 2023-01-05 22:47:22
 -->
 
 <div class="minipre" style="width:18%; min-width:275px; height:90%; float:right; position:fixed; right:2.5%;top:2%;z-index:99;">
@@ -26,17 +26,23 @@
 
 - 1、下载 [源码](https://github.com/XiaokangLei/ColorUI-GA) 并解压，复制`/colorui`文件夹到项目根目录
 - 2、`app.wxss`引入关键css：`main.wxss`,`icon.wxss`
-- 3、【**注意**】部分样式需要page中的wxss样式及js代码一起使用才能看到完整效果，请注意查看源码
 
 ```js
-// 根目录 app.wxss 文件
+/* 根目录 app.wxss 文件 */
 @import "colorui/main.wxss";
 @import "colorui/icon.wxss";
-// 若需要使用微动画，请引入 animation.wxss
+/* 若需要使用微动画，请引入 animation.wxss */
 @import "colorui/animation.wxss";
-// 若使用暗色模式，请引入 dark.wxss，注意，当前版本暗色模式随系统切换，目前不支持手动切换
+/* 若使用暗色模式，请引入 dark.wxss，注意，当前版本暗色模式随系统切换，目前不支持手动切换 */
 @import "colorui/dark.wxss";
 ```
+
+- 3、如果使用新版的组件样式`app.json`里面的`"style": "v2"`，部分样式将失效，请确保删除全局`app.json`里面的`"style": "v2"`。如确实需要使用新版样式，可在`page`中的`.json`文件中添加`"style": "v2"`。
+- 4、【注意】部分样式需要 page 中的 wxss 样式一起使用才能看到完整效果，请注意查看源码
+
+## Demo 快速体验
+
+- 基础表单组件库使用示例，v2.0.9 版本 Demo[下载链接](https://github.com/XiaokangLei/ColorUI-GA/releases/download/v2.0.9/demo.zip)
 
 ### 自定义顶部导航栏(可选)
 
