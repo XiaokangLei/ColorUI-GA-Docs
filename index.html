@@ -10,6 +10,7 @@
     content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
   <link rel="shortcut icon" href="/img/favicon.png">
   <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css">
+  <link rel="stylesheet" href="https://wugenqiang.js.org/src/css/iconfont.css">
   <style>
     .content {
       padding-top: 3%;
@@ -32,6 +33,18 @@
     .markdown-section {
       margin-left: 1%;
       max-width: 70%;
+      padding: 10px 15px 10px;
+    }
+
+    .app-nav {
+      position: fixed;
+      margin: 0;
+      padding: 10px 0 10px 0;
+      width: 88%;
+      background-color: #fff;
+      height: 50px;
+      border-bottom: 1px solid #eee;
+      border-left: 1px solid #eee;
     }
 
     @media (max-width:1200px) {
@@ -62,15 +75,27 @@
       .markdown-section {
         margin-left: 1%;
         max-width: 96%;
+        padding: 10px 15px 10px;
       }
 
       .minipre {
         display: none;
       }
 
+      .app-nav {
+        position: fixed;
+        margin: 0;
+        padding: 10px 0 10px 0;
+        width: 80%;
+        background-color: #fff;
+        height: 50px;
+        border-bottom: 1px solid #eee;
+        border-left: 1px solid #eee;
+      }
+
     }
 
-    @media (max-width:720px) {
+    @media (max-width:768px) {
 
       /*代码块复制按钮默认隐藏*/
       .docsify-copy-code-button {
@@ -98,10 +123,22 @@
       .markdown-section {
         margin-left: 1%;
         max-width: 96%;
+        padding: 10px 15px 10px;
       }
 
       .minipre {
         display: none;
+      }
+
+      .app-nav {
+        position: fixed;
+        margin: 0;
+        padding: 10px 0 10px 0;
+        width: 100%;
+        background-color: #fff;
+        height: 50px;
+        border-bottom: 1px solid #eee;
+        border-left: 1px solid #eee;
       }
 
     }
@@ -147,6 +184,7 @@
       repo: 'https://github.com/XiaokangLei/ColorUI-GA',
       auto2top: true,
       coverpage: true,
+      loadNavbar: false,//_navbar.md如果为真，则从_navbar.md文件加载navbar ，否则从指定的路径加载
       loadSidebar: true,
       maxLevel: 4,
       subMaxLevel: 2,

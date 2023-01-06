@@ -5,12 +5,12 @@
  * @email: lxk201808@163.com
  * @Date: 2022-11-28 16:30:51
  * @LastEditors: Xiaokang Lei
- * @LastEditTime: 2022-12-30 14:21:31
+ * @LastEditTime: 2023-01-07 00:11:37
 -->
 
-- [**ColorUI GA文档**]()
+- 🌈ColorUI GA文档
   - [🎬快速开始](README.md)
-  - [❤️支持作者](/other/support.md)
+  - [❤️关于ColorUI GA](/other/support.md)
 
 - 📊基础样式
   - [🧮布局Layout](/base/layout.md)
@@ -63,9 +63,9 @@
   - [🍱卡片设计Design](/expand/design.md)
 
 - 🗼UI模板设计
-  - [🏠首页](/template/index.md)
-  - [⛺个人中心](/template/user.md)
-  - [🌁用户列表](/template/userlist.md)
-  - [💬评论页](/template/comment.md)
+  - [🏠首页Index](/template/index.md)
+  - [⛺个人中心User](/template/user.md)
+  - [🌁用户列表Userlist](/template/userlist.md)
+  - [💬评论页Comment](/template/comment.md)
   - [🍥消息列表Message](/template/message.md)
   - [🎵音乐播放Music](/template/music.md)

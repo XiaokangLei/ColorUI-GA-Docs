@@ -5,13 +5,19 @@
  * @email: lxk201808@163.com
  * @Date: 2022-11-29 10:02:06
  * @LastEditors: Xiaokang Lei
- * @LastEditTime: 2022-12-09 17:06:21
+ * @LastEditTime: 2023-01-07 00:16:35
 -->
-# 支持作者
+# 关于ColorUI GA
 
 <div class="minipre" style="width:18%; min-width:275px; height:90%; float:right; position:fixed; right:2.5%;top:2%;z-index:99;">
     <iframe src="./h5/index.html" width="100%" height="80%" style="border-radius:15px; box-shadow:0 0 50px 0px rgb(30 0 60 / 15%);"></iframe>
 </div>
+
+## 简介
+
+**本文档是作者 @L. 学业之余整理学习CSS及小程序相关知识，仅为个人业余兴趣开发，秉承开源思想，代码全部开源，与大家共同维护。**
+
+## 支持
 
 **如果该小程序或者该文档对您有所帮助，请给予支持！**
 

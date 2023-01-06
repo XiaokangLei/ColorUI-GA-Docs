@@ -5,7 +5,7 @@
  * @email: lxk201808@163.com
  * @Date: 2022-11-28 16:30:51
  * @LastEditors: Xiaokang Lei
- * @LastEditTime: 2023-01-05 22:47:22
+ * @LastEditTime: 2023-01-06 23:49:54
 -->
 
 <div class="minipre" style="width:18%; min-width:275px; height:90%; float:right; position:fixed; right:2.5%;top:2%;z-index:99;">
@@ -16,10 +16,8 @@
 
 [![stars](https://badgen.net/github/stars/XiaokangLei/ColorUI-GA?icon=github&color=4ab8a1)](https://github.com/XiaokangLei/ColorUI-GA) [![forks](https://badgen.net/github/forks/XiaokangLei/ColorUI-GA?icon=github&color=4ab8a1)](https://github.com/XiaokangLei/ColorUI-GA) [<img src="https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1-%E5%85%AC%E4%BC%97%E5%8F%B7-brightgreen">](https://s1.ax1x.com/2022/11/30/zwKWsx.jpg)
 
-[ColorUI GA](https://github.com/XiaokangLei/ColorUI-GA) 是基于ColorUI 2.0开发的轻量、可靠的小程序**原生**css组件库，理论上适用于其他支持css库的所有平台。
-
+[ColorUI GA](https://github.com/XiaokangLei/ColorUI-GA) 是基于ColorUI 2.0开发的轻量、可靠、开源的小程序**原生**css组件库，理论上适用于其他支持css库的所有平台。
 在原组件库的基础上会增加部分样式和模板，长期更新，如果您有好的想法或对本项目有任何建议、需求以及发现文中内容有误，请提交 [Github Issues](https://github.com/XiaokangLei/ColorUI-GA/issues)。
-
 对于想要一起开发，补充CSS样式库的朋友，欢迎提交 PR。
 
 ## 快速开始(原生小程序)
@@ -37,12 +35,13 @@
 @import "colorui/dark.wxss";
 ```
 
-- 3、如果使用新版的组件样式`app.json`里面的`"style": "v2"`，部分样式将失效，请确保删除全局`app.json`里面的`"style": "v2"`。如确实需要使用新版样式，可在`page`中的`.json`文件中添加`"style": "v2"`。
+- 3、如果使用新版的组件样式`app.json`里面的`"style": "v2"`，部分样式将失效，请确保删除全局`app.json`里面的`"style": "v2"`。如确实需要使用新版样式，可在局部`page`中的`.json`文件中添加`"style": "v2"`。
 - 4、【注意】部分样式需要 page 中的 wxss 样式一起使用才能看到完整效果，请注意查看源码
 
 ## Demo 快速体验
 
 - 基础表单组件库使用示例，v2.0.9 版本 Demo[下载链接](https://github.com/XiaokangLei/ColorUI-GA/releases/download/v2.0.9/demo.zip)
+- 详细使用说明：[【链接】](https://zhuanlan.zhihu.com/p/597197882)
 
 ### 自定义顶部导航栏(可选)
 
@@ -86,11 +85,12 @@ onLaunch: function() {
 - 4、参数
 
 | 参数     |       作用       |  类型   | 默认值 |
-| -------- | :--------------: | :-----: | :----: |
+| -------- | :-------------: | :-----: | :----: |
 | bgColor  |   背景颜色类名   | String  |   ''   |
 | isBack   |   是否开启返回   | Boolean | false  |
 | isCustom | 是否开启左侧胶囊 | Boolean | false  |
 | bgImage  |   背景图片路径   | String  |   ''   |
+| isLucency|   背景透明       | Boolean | false  |
 
 | slot块   |                 作用                 |
 | -------- | :----------------------------------: |
