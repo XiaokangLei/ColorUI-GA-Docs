@@ -5,7 +5,7 @@
  * @email: lxk201808@163.com
  * @Date: 2022-11-28 16:30:51
  * @LastEditors: Xiaokang Lei
- * @LastEditTime: 2023-01-07 00:11:37
+ * @LastEditTime: 2023-01-12 18:16:39
 -->
 
 - 🌈ColorUI GA文档
@@ -41,10 +41,12 @@
   - [🪟轻提示Toast](/component/toast.md)
   - [🪪状态提示Status](/component/status.md)
   - [📋评分Rate](/component/rate.md)
-  - [📆手风琴Piano](/component/piano.md)
+  - [🗂️手风琴Piano](/component/piano.md)
   - [🖼️滚动提示Tips](/component/tips.md)
-  - [🗂️日历Calendar](/component/calendar.md)
-  - [⌛表格Table](/component/table.md)
+  - [📆日历Calendar](/component/calendar.md)
+  - [📈表格Table](/component/table.md)
+  - [🎛️步进器Stepper](/component/stepper.md)
+  - [⌛倒计时Countdown](/component/countdown.md)
 
 - 💡扩展
   - [🏜️索引列表Indexs](/expand/indexs.md)

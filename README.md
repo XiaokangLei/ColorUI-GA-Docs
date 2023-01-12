@@ -5,7 +5,7 @@
  * @email: lxk201808@163.com
  * @Date: 2022-11-28 16:30:51
  * @LastEditors: Xiaokang Lei
- * @LastEditTime: 2023-01-06 23:49:54
+ * @LastEditTime: 2023-01-12 18:13:30
 -->
 
 <div class="minipre" style="width:18%; min-width:275px; height:90%; float:right; position:fixed; right:2.5%;top:2%;z-index:99;">
@@ -19,6 +19,10 @@
 [ColorUI GA](https://github.com/XiaokangLei/ColorUI-GA) 是基于ColorUI 2.0开发的轻量、可靠、开源的小程序**原生**css组件库，理论上适用于其他支持css库的所有平台。
 在原组件库的基础上会增加部分样式和模板，长期更新，如果您有好的想法或对本项目有任何建议、需求以及发现文中内容有误，请提交 [Github Issues](https://github.com/XiaokangLei/ColorUI-GA/issues)。
 对于想要一起开发，补充CSS样式库的朋友，欢迎提交 PR。
+
+## 完整UI模板
+
+- 商城UI模板《北岛小店》：[链接](https://one.x-artspace.cn/ColorUI-GA-Docs/h5/northlandshop/demo.html)
 
 ## 快速开始(原生小程序)
 
@@ -36,7 +40,6 @@
 ```
 
 - 3、如果使用新版的组件样式`app.json`里面的`"style": "v2"`，部分样式将失效，请确保删除全局`app.json`里面的`"style": "v2"`。如确实需要使用新版样式，可在局部`page`中的`.json`文件中添加`"style": "v2"`。
-- 4、【注意】部分样式需要 page 中的 wxss 样式一起使用才能看到完整效果，请注意查看源码
 
 ## Demo 快速体验
 

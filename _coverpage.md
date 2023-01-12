@@ -3,7 +3,7 @@
 # ColorUI GA 使用文档
 
 - 本文档是作者 @L. 学业之余整理学习CSS及小程序相关知识，仅为个人业余兴趣开发，不涉及任何商业行为，秉承开源思想，与大家共同维护。
-- 最近更新：2023年1月6日
+- 最近更新：2023年1月12日
 
 [![stars](https://badgen.net/github/stars/XiaokangLei/ColorUI-GA?icon=github&color=4ab8a1)](https://github.com/XiaokangLei/ColorUI-GA) [![forks](https://badgen.net/github/forks/XiaokangLei/ColorUI-GA?icon=github&color=4ab8a1)](https://github.com/XiaokangLei/ColorUI-GA)
 
