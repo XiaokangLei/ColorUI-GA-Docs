@@ -14,7 +14,7 @@
 
 # 文字Text
 
-***代码位置：`/pages/index/basics/text/text.wxml`***
+***样式代码：`/pages/index/basics/text/text.wxml`***
 
 ## 颜色
 

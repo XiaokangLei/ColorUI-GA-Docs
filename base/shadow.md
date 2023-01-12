@@ -14,7 +14,7 @@
 
 # 阴影Shadow
 
-***代码位置`/pages/index/basics/shadow/shadow.wxml`***
+***样式代码：`/pages/index/basics/shadow/shadow.wxml`***
 
 ## 基本边框
 

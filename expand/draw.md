@@ -14,4 +14,4 @@
 
 # 抽奖Draw
 
-***代码位置：`/pages/index/plugin/draw/draw.wxml`***
+***样式代码：`/pages/index/plugin/draw/draw.wxml`***

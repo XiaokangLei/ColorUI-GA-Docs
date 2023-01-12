@@ -5,7 +5,7 @@
  * @email: lxk201808@163.com
  * @Date: 2022-11-28 19:17:36
  * @LastEditors: Xiaokang Lei
- * @LastEditTime: 2022-12-30 14:50:53
+ * @LastEditTime: 2023-01-13 00:18:32
 -->
 
 <div class="minipre" style="width:18%; min-width:275px; height:90%; float:right; position:fixed; right:2.5%;top:2%;z-index:99;">
@@ -14,54 +14,71 @@
 
 # 🧮布局Layout
 
-***代码位置：`/pages/index/basics/layout/layout.wxml`***
+***样式代码：`/pages/index/basics/layout/layout.wxml`***[Github链接](https://github.com/XiaokangLei/ColorUI-GA/blob/master/pages/index/basics/layout/layout.wxml)
+
+## 基础布局
+
+- 内外边距相关介绍：[链接](https://www.zhihu.com/zvideo/1419071372585185280)
+- 内外边距{size}的尺寸有 xs、sm、默认、lg、xl、xxl，对应大小分别为：10rpx、20rpx、30rpx、40rpx、50rpx、60rpx
+
+```html
+<view class="margin padding">上下左右四个方向</view>
+<view class="margin-lr padding-tb">左右外边距、上下内边距</view>
+<view class="margin-tb-sm padding-lr-xl">边距大小</view>
+```
+
+- 圆角{size}的尺寸有 默认、df、lg、xl，对应大小分别为：8rpx、16rpx、24rpx、32rpx
+
+```html
+<view class="radius-xl">四角</view>
+<view class="radius-top">顶部两角</view>
+<view class="radius-bottom">底部两角</view>
+<view class="radius-top-left">左上右下两角</view>
+<view class="radius-top-right">右上坐下两角</view>
+```
 
 ## Flex布局
 
-- flex基础知识详解参考: <https://zhuanlan.zhihu.com/p/52280195>
+- flex基础知识详解参考: [链接](https://zhuanlan.zhihu.com/p/52280195)
 
-### 固定尺寸
+### 固定长度
 
 ```html
-<view class="padding bg-white">
-    <view class="flex flex-wrap">
-    <view class="basis-xs bg-blue light margin-xs padding-sm radius">xs(20%)</view>
-    <view class="basis-df"></view>
-    <view class="basis-sm bg-blue light margin-xs padding-sm radius">sm(40%)</view>
-    <view class="basis-df"></view>
-    <view class="basis-df bg-blue light margin-xs padding-sm radius">sub(50%)</view>
-    <view class="basis-lg bg-blue light margin-xs padding-sm radius">lg(60%)</view>
-    <view class="basis-xl bg-blue light margin-xs padding-sm radius">xl(80%)</view>
-    <view class="basis-xxl bg-blue light margin-xs padding-sm radius">xxl(100%)</view>
-    </view>
+<view class="flex flex-wrap">
+    <view class="basis-xs">xs(20%)</view>
+    <view class="basis-sm">sm(40%)</view>
+    <view class="basis-df">sub(50%)</view>
+    <view class="basis-lg">lg(60%)</view>
+    <view class="basis-xl">xl(80%)</view>
+    <view class="basis-xxl">xxl(100%)</view>
 </view>
 ```
 
 ### 比例布局
 
+- `flex-sub`、`flex-twice`和`flex-treble`自行组合
+
 ```html
-<view class="padding bg-white">
-    <view class="flex">
-    <view class="flex-sub bg-blue light padding-sm margin-xs radius">1/2</view>
-    <view class="flex-sub bg-blue light padding-sm margin-xs radius">1/2</view>
-    </view>
-    <view class="flex p-xs margin-bottom-sm mb-sm">
-    <view class="flex-sub bg-blue light padding-sm margin-xs radius">1/3</view>
-    <view class="flex-twice bg-blue light padding-sm margin-xs radius">2/3</view>
-    </view>
-    <view class="flex p-xs margin-bottom-sm mb-sm">
-    <view class="flex-twice bg-blue light padding-sm margin-xs radius">2/3</view>
-    <view class="flex-sub bg-blue light padding-sm margin-xs radius">1/3</view>
-    </view>
-    <view class="flex p-xs margin-bottom-sm mb-sm">
-    <view class="flex-sub bg-blue light padding-sm margin-xs radius">1/6</view>
-    <view class="flex-twice bg-blue light padding-sm margin-xs radius">1/3</view>
-    <view class="flex-treble bg-blue light padding-sm margin-xs radius">1/2</view>
-    </view>
-    <view class="flex p-xs margin-bottom-sm mb-sm">
-    <view class="flex-treble bg-blue light padding-sm margin-xs radius">3/4</view>
-    <view class="flex-sub bg-blue light padding-sm margin-xs radius">1/4</view>
-    </view>
+<view class="flex">
+    <view class="flex-sub">1/2</view>
+    <view class="flex-sub">1/2</view>
+</view>
+<view class="flex">
+    <view class="flex-sub">1/3</view>
+    <view class="flex-twice">2/3</view>
+</view>
+<view class="flex">
+    <view class="flex-twice">2/3</view>
+    <view class="flex-sub">1/3</view>
+</view>
+<view class="flex">
+    <view class="flex-sub">1/6</view>
+    <view class="flex-twice">1/3</view>
+    <view class="flex-treble">1/2</view>
+</view>
+<view class="flex">
+    <view class="flex-treble">3/4</view>
+    <view class="flex-sub">1/4</view>
 </view>
 ```
 

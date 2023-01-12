@@ -14,4 +14,4 @@
 
 # 状态提示Status
 
-***代码位置`/pages/index/component/status/status.wxml`***
+***样式代码：`/pages/index/component/status/status.wxml`***

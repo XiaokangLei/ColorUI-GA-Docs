@@ -14,4 +14,4 @@
 
 # 表格Table
 
-***代码位置`/pages/index/component/table/table.wxml`***
+***样式代码：`/pages/index/component/table/table.wxml`***

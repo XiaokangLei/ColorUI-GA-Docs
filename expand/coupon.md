@@ -14,4 +14,4 @@
 
 # 卡券Coupon
 
-***代码位置：`/pages/index/plugin/coupon/coupon.wxml`***
+***样式代码：`/pages/index/plugin/coupon/coupon.wxml`***

@@ -14,4 +14,4 @@
 
 # 边框Border
 
-***代码位置`/pages/index/basics/border/border.wxml`***
+***样式代码：`/pages/index/basics/border/border.wxml`***

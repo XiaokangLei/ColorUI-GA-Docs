@@ -14,7 +14,7 @@
 
 # 聊天框Chat
 
-***代码位置：`/pages/index/component/chat/chat.wxml`***
+***样式代码：`/pages/index/component/chat/chat.wxml`***
 
 ## 基本样式
 

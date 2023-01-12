@@ -14,7 +14,7 @@
 
 # 按钮Button
 
-***代码位置：`/pages/index/basics/button/button.wxml`***
+***样式代码：`/pages/index/basics/button/button.wxml`***
 
 ## 形状
 

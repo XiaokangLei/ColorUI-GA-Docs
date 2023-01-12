@@ -14,7 +14,7 @@
 
 # 操作条Bar
 
-***代码位置：`/pages/index/component/bar/bar.wxml`***
+***样式代码：`/pages/index/component/bar/bar.wxml`***
 
 ## 顶部操作条
 

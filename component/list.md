@@ -14,7 +14,7 @@
 
 # 列表List
 
-***代码位置：`/pages/index/component/list/list.wxml`***
+***样式代码：`/pages/index/component/list/list.wxml`***
 
 ## 宫格列表
 

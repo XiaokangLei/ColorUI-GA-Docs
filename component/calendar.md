@@ -14,4 +14,4 @@
 
 # 日历Calendar
 
-***代码位置`/pages/index/component/calendar/calendar.wxml`***
+***样式代码：`/pages/index/component/calendar/calendar.wxml`***

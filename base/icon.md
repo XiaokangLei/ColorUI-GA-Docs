@@ -14,7 +14,7 @@
 
 # 图标Icon
 
-***代码位置：`/pages/index/basics/icon/icon.wxml`***
+***样式代码：`/pages/index/basics/icon/icon.wxml`***
 
 ## 图标使用
 

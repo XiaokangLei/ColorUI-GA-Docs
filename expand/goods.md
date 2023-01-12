@@ -14,4 +14,4 @@
 
 # 商品滑动Goods
 
-***代码位置：`/pages/index/plugin/goods/goods.wxml`***
+***样式代码：`/pages/index/plugin/goods/goods.wxml`***

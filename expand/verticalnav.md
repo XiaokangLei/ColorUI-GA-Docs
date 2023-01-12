@@ -14,7 +14,7 @@
 
 # 垂直导航Verticalnav
 
-***代码位置：`/pages/index/plugin/verticalnav/verticalnav.wxml`***
+***样式代码：`/pages/index/plugin/verticalnav/verticalnav.wxml`***
 
 ## 基本样式
 

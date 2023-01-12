@@ -14,4 +14,4 @@
 
 # 骨架屏Skeleton
 
-***代码位置：`/pages/index/plugin/skeleton/skeleton.wxml`***
+***样式代码：`/pages/index/plugin/skeleton/skeleton.wxml`***

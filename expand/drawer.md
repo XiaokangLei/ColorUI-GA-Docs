@@ -14,7 +14,7 @@
 
 # 全屏抽屉
 
-***代码位置：`/pages/index/plugin/drawer/drawer.wxml`***
+***样式代码：`/pages/index/plugin/drawer/drawer.wxml`***
 
 ## 基本样式
 

@@ -5,7 +5,7 @@
  * @email: lxk201808@163.com
  * @Date: 2022-12-15 20:25:57
  * @LastEditors: Xiaokang Lei
- * @LastEditTime: 2022-12-15 20:25:58
+ * @LastEditTime: 2023-01-12 23:56:54
 -->
 
 <div class="minipre" style="width:18%; min-width:275px; height:90%; float:right; position:fixed; right:2.5%;top:2%;z-index:99;">
@@ -14,4 +14,4 @@
 
 # 轻提示Toast
 
-***代码位置`/pages/index/component/toast/toast.wxml`***
+***样式代码：`/pages/index/component/toast/toast.wxml`***

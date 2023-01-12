@@ -14,4 +14,4 @@
 
 # 卡片翻转Overturn
 
-***代码位置：`/pages/index/plugin/overturn/overturn.wxml`***
+***样式代码：`/pages/index/plugin/overturn/overturn.wxml`***

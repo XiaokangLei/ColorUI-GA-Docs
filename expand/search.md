@@ -14,4 +14,4 @@
 
 # 历史搜索Search
 
-***代码位置：`/pages/index/plugin/search/search.wxml`***
+***样式代码：`/pages/index/plugin/search/search.wxml`***

@@ -14,7 +14,7 @@
 
 # 时间轴Timeline
 
-***代码位置：`/pages/index/component/timeline/timeline.wxml`***
+***样式代码：`/pages/index/component/timeline/timeline.wxml`***
 
 ## 基本轴样式
 

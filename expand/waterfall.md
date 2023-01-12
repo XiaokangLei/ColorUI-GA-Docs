@@ -14,7 +14,7 @@
 
 # 瀑布流Waterfall
 
-***代码位置：`/pages/index/plugin/waterfall/waterfall.wxml`***
+***样式代码：`/pages/index/plugin/waterfall/waterfall.wxml`***
 
 ## 瀑布流
 

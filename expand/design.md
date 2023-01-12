@@ -14,4 +14,4 @@
 
 # 卡片设计Design
 
-***代码位置：`/pages/index/plugin/design/design.wxml`***
+***样式代码：`/pages/index/plugin/design/design.wxml`***

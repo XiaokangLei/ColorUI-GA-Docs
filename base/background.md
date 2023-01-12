@@ -14,7 +14,7 @@
 
 # 🖼️背景Background
 
-***代码位置：`/pages/index/basics/background/background.wxml`***
+***样式代码：`/pages/index/basics/background/background.wxml`***
 
 ## 使用方法
 

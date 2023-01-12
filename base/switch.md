@@ -14,4 +14,4 @@
 
 # 开关Switch
 
-***代码位置`/pages/index/basics/switch/switch.wxml`***
+***样式代码：`/pages/index/basics/switch/switch.wxml`***

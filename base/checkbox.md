@@ -14,4 +14,4 @@
 
 # 复选框Checkbox
 
-***代码位置`/pages/index/basics/checkbox/checkbox.wxml`***
+***样式代码：`/pages/index/basics/checkbox/checkbox.wxml`***
