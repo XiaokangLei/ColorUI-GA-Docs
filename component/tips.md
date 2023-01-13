@@ -14,4 +14,4 @@
 
 # 滚动提示Tips
 
-***样式代码：`/pages/index/component/tips/tips.wxml`***
+***示例代码：`/pages/index/component/tips/tips.wxml`***

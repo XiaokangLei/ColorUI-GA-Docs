@@ -5,7 +5,7 @@
  * @email: lxk201808@163.com
  * @Date: 2022-11-28 16:30:51
  * @LastEditors: Xiaokang Lei
- * @LastEditTime: 2023-01-12 18:16:39
+ * @LastEditTime: 2023-01-13 09:30:03
 -->
 
 - 🌈ColorUI GA文档
@@ -15,7 +15,7 @@
 - 📊基础样式
   - [🧮布局Layout](/base/layout.md)
   - [🖼️背景Background](/base/background.md)
-  - [📈文本Text](/base/text.md)
+  - [📄文本Text](/base/text.md)
   - [📱图标Icon](/base/icon.md)
   - [🎛️按钮Button](/base/button.md)
   - [🏷️标签Tag](/base/tag.md)

@@ -14,7 +14,7 @@
 
 # 表单Form
 
-***样式代码：`/pages/index/component/form/form.wxml`***
+***示例代码：`/pages/index/component/form/form.wxml`***
 
 ## 表单样式
 

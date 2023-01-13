@@ -14,4 +14,4 @@
 
 # 步进器stepper
 
-***样式代码：`/pages/index/component/stepper/stepper.wxml`***
+***示例代码：`/pages/index/component/stepper/stepper.wxml`***

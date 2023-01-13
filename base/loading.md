@@ -14,7 +14,7 @@
 
 # 加载中Loading
 
-***样式代码：`/pages/index/basics/loading/loading.wxml`***
+***示例代码：`/pages/index/basics/loading/loading.wxml`***
 
 ## 背景
 

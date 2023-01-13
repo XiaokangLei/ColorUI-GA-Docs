@@ -14,4 +14,4 @@
 
 # 轻提示Toast
 
-***样式代码：`/pages/index/component/toast/toast.wxml`***
+***示例代码：`/pages/index/component/toast/toast.wxml`***

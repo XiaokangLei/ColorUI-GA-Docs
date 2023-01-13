@@ -14,4 +14,4 @@
 
 # 手风琴Piano
 
-***样式代码：`/pages/index/component/piano/piano.wxml`***
+***示例代码：`/pages/index/component/piano/piano.wxml`***

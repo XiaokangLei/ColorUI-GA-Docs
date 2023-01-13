@@ -14,7 +14,7 @@
 
 # 进度条Progress
 
-***样式代码：`/pages/index/basics/progress/progress.wxml`***
+***示例代码：`/pages/index/basics/progress/progress.wxml`***
 
 ## 进度条形状
 

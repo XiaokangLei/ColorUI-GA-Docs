@@ -14,7 +14,7 @@
 
 # 标签Tag
 
-***样式代码：`/pages/index/basics/tag/tag.wxml`***
+***示例代码：`/pages/index/basics/tag/tag.wxml`***
 
 ## 形状
 

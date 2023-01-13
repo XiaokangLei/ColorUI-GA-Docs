@@ -14,4 +14,4 @@
 
 # 倒计时Countdown
 
-***样式代码：`/pages/index/component/countdown/countdown.wxml`***
+***示例代码：`/pages/index/component/countdown/countdown.wxml`***

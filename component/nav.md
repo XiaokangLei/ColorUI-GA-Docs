@@ -14,7 +14,7 @@
 
 # 导航栏Nav
 
-***样式代码：`/pages/index/component/nav/nav.wxml`***
+***示例代码：`/pages/index/component/nav/nav.wxml`***
 
 ## 默认导航栏样式
 

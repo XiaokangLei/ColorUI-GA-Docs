@@ -14,4 +14,4 @@
 
 # 表格Table
 
-***样式代码：`/pages/index/component/table/table.wxml`***
+***示例代码：`/pages/index/component/table/table.wxml`***

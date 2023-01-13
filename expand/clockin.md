@@ -14,4 +14,4 @@
 
 # 打卡Clockin
 
-***样式代码：`/pages/index/plugin/clockin/clockin.wxml`***
+***示例代码：`/pages/index/plugin/clockin/clockin.wxml`***

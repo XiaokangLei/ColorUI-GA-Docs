@@ -14,7 +14,7 @@
 
 # 模态框Modal
 
-***样式代码：`/pages/index/component/modal/modal.wxml`***
+***示例代码：`/pages/index/component/modal/modal.wxml`***
 
 ## 模态框样式
 

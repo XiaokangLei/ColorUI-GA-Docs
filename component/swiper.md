@@ -14,7 +14,7 @@
 
 # 轮播图Swiper
 
-***样式代码：`/pages/index/component/swiper/swiper.wxml`***
+***示例代码：`/pages/index/component/swiper/swiper.wxml`***
 
 ## 全屏限高轮播图
 

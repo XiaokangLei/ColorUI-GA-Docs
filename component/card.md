@@ -14,7 +14,7 @@
 
 # 卡片Card
 
-***样式代码：`/pages/index/component/card/card.wxml`***
+***示例代码：`/pages/index/component/card/card.wxml`***
 
 ## 案例类卡片
 

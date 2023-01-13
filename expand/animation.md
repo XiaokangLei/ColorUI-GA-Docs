@@ -14,7 +14,7 @@
 
 # 微动画Animation
 
-***样式代码：`/pages/index/plugin/animation/animation.wxml`***
+***示例代码：`/pages/index/plugin/animation/animation.wxml`***
 
 ## 默认效果
 

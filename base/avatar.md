@@ -14,7 +14,7 @@
 
 # 头像Avatar
 
-***样式代码：`/pages/index/basics/avatar/avatar.wxml`***
+***示例代码：`/pages/index/basics/avatar/avatar.wxml`***
 
 ## 形状
 

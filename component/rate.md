@@ -14,4 +14,4 @@
 
 # 评分Rate
 
-***样式代码：`/pages/index/component/rate/rate.wxml`***
+***示例代码：`/pages/index/component/rate/rate.wxml`***

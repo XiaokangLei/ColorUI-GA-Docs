@@ -5,7 +5,7 @@
  * @email: lxk201808@163.com
  * @Date: 2022-11-29 16:56:47
  * @LastEditors: Xiaokang Lei
- * @LastEditTime: 2022-12-30 14:51:41
+ * @LastEditTime: 2023-01-13 09:25:45
 -->
 
 <div class="minipre" style="width:18%; min-width:275px; height:90%; float:right; position:fixed; right:2.5%;top:2%;z-index:99;">
@@ -14,7 +14,7 @@
 
 # 🖼️背景Background
 
-***样式代码：`/pages/index/basics/background/background.wxml`***
+***示例代码：`/pages/index/basics/background/background.wxml`***[Github链接](https://github.com/XiaokangLei/ColorUI-GA/blob/master/pages/index/basics/background/background.wxml)
 
 ## 使用方法
 
@@ -27,16 +27,14 @@
 
 ## 十级纯色背景色
 
-- 13种十级纯色背景参考地址：<https://yeun.github.io/open-color/>
+- 13*10种纯色背景参考地址：[链接](https://yeun.github.io/open-color/)
 
 ## 标准色
 
-- 代码位置：`/colorui/main.wxss`, 可以自定义相关配色
+- 代码位置：`/colorui/main.wxss`, 修改该文件的配色值，可以自定义配色，部分配色参数如下：
 
 ```css
 page {
-  /* Color 可以自定义相关配色 */
-  /* var属性兼容性 --> https://www.caniuse.com/#feat=css-variables */
   /* 标准色 */
   --red: #e54d42;
   --orange: #f37b1d;
@@ -101,9 +99,5 @@ page {
   --greyShadow: rgba(114, 130, 138, 0.2);
   --grayShadow: rgba(114, 130, 138, 0.2);
   --blackShadow: rgba(26, 26, 26, 0.2);
-  background-color: var(--ghostWhite);
-  font-size: 28rpx;
-  color: var(--black);
-  font-family: Helvetica Neue, Helvetica, sans-serif;
 }
 ```

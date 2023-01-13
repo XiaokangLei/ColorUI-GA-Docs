@@ -14,7 +14,7 @@
 
 # 索引列表Indexs
 
-***样式代码：`/pages/index/plugin/indexes/indexes.wxml`***
+***示例代码：`/pages/index/plugin/indexes/indexes.wxml`***
 
 ## 列表
 

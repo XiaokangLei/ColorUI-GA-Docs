@@ -13,4 +13,4 @@
 
 # 标题Title
 
-***样式代码：`/pages/index/basics/title/title.wxml`***
+***示例代码：`/pages/index/basics/title/title.wxml`***

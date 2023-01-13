@@ -14,7 +14,7 @@
 
 # 步骤条Steps
 
-***样式代码：`/pages/index/component/steps/steps.wxml`***
+***示例代码：`/pages/index/component/steps/steps.wxml`***
 
 ## 步骤条样式
 

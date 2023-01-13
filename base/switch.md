@@ -14,4 +14,4 @@
 
 # 开关Switch
 
-***样式代码：`/pages/index/basics/switch/switch.wxml`***
+***示例代码：`/pages/index/basics/switch/switch.wxml`***
