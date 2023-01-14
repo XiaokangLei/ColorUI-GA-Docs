@@ -5,16 +5,16 @@
  * @email: lxk201808@163.com
  * @Date: 2022-12-02 17:43:07
  * @LastEditors: Xiaokang Lei
- * @LastEditTime: 2022-12-09 17:04:34
+ * @LastEditTime: 2023-01-13 16:54:47
 -->
 
 <div class="minipre" style="width:18%; min-width:275px; height:90%; float:right; position:fixed; right:2.5%;top:2%;z-index:99;">
     <iframe src="./h5/index.html#/pages/index/component/bar/bar" width="100%" height="80%" style="border-radius:15px; box-shadow:0 0 50px 0px rgb(30 0 60 / 15%);"></iframe>
 </div>
 
-# 操作条Bar
+# 🪧操作条Bar
 
-***示例代码：`/pages/index/component/bar/bar.wxml`***
+***示例代码：`/pages/index/component/bar/bar.wxml`***[GitHub链接](https://github.com/XiaokangLei/ColorUI-GA/blob/master/pages/index/component/bar/bar.wxml)
 
 ## 顶部操作条
 
@@ -307,7 +307,3 @@
   <button class="cu-btn bg-green shadow-blur">发送</button>
 </view>
 ```
-
-<br>
-
-
